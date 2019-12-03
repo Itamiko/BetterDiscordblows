@@ -11,6 +11,7 @@ Global
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
+		Description = A command line installer to patch discord with BetterDiscord
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{4716C1BB-863C-4B1F-B9B7-9AC0ABDF2772}.Debug|x64.ActiveCfg = Debug|x64
